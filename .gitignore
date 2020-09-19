@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+temp/
+# *.hocon
+*.sh
+dataset/
+__pycache__/
+.vscode/
+log/
+paper/
+imgs/
